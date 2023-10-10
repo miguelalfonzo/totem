@@ -45,7 +45,14 @@
 
 .nosotros-text{
       font-family: 'Montserrat Regular';
-      color :#3D3D3D;
+      color :#005f69;
 /*    font-size: 3.75rem;*/
+
+}
+
+.text-contacto{
+
+font-family: 'Montserrat Regular';
+      color :#012A2F;
 
 }
